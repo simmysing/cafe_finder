@@ -40,6 +40,9 @@ JavaScript (ES6)
 
 📸 Screenshots:
 
+![Home](./screenshots/home.png)
+![Results](./screenshots/results.png)
+![Favorites](./screenshots/favorites.png)
 
 
 💡 Future Improvements
