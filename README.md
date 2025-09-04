@@ -3,6 +3,10 @@
 A cozy web app to find and save your favorite coffee spots.
 Built with HTML, CSS, and JavaScript.
 
+## 🚀 Live Demo
+https://simmysing.github.io/cafe_finder/
+
+
 ✨ Features:
 
 🔍 Search for cafes by city (currently using mock data, API-ready).
